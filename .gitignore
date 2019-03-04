@@ -1,0 +1,6 @@
+*.pyc
+*.pyx
+
+*.pth
+
+*.log

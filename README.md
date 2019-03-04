@@ -6,7 +6,7 @@ Module (SEM). Here are the code for this paper.
 
 ### Prerequisites
 
-- pytorch >= 0.2.0
+- pytorch >= 0.2.0(Our code is based on the 0.2.0)
 - numpy >= 1.11.0
 - pillow >= 3.3.0
 
@@ -17,17 +17,18 @@ Module (SEM). Here are the code for this paper.
 git clone https://github.com/pytorch/pytorch.git
 ```
 
-2. Download the imagenet pretrained vgg16 pytorch model [vgg16.pth]() or the caffemodel from the [model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) and then transfer to pytorch version. You also can download our pretrained model for only evaluation.
+2. Download the imagenet pretrained vgg16 pytorch model [vgg16.pth](link: https://pan.baidu.com/s/10Tgjs7FiAYWjVyVgvEM0mA code: ab4g) or the caffemodel from the [model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) and then transfer to pytorch version. You also can download our pretrained model for only evaluation.
 
 3. Download the dataset to the local folder
 
-4. running the training code and test code
+4. running the training code train.py or test code test.py
 
 ### Pretrained models
 
-BDCN model for BSDS500 dataset is available[1]()
+BDCN model for BSDS500 dataset and NYUDv2 datset of RGB and depth are availavble on Baidu Disk.
 
-BDCN model for NYUDv2 datset is available[RGB]() and [depth]()
+    The link https://pan.baidu.com/s/18PcPQTASHKD1-fb1JTzIaQ
+    code: j3de
 
 
 The pretrained model will be updated soon.
