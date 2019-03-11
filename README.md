@@ -18,6 +18,7 @@ git clone https://github.com/pytorch/pytorch.git
 ```
 
 2. Download the imagenet pretrained vgg16 pytorch model [vgg16.pth](link: https://pan.baidu.com/s/10Tgjs7FiAYWjVyVgvEM0mA code: ab4g) or the caffemodel from the [model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) and then transfer to pytorch version. You also can download our pretrained model for only evaluation.
+The google drive [link](https://drive.google.com/file/d/1CmDMypSlLM6EAvOt5yjwUQ7O5w-xCm1n/view?usp=sharing).
 
 3. Download the dataset to the local folder
 
