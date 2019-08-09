@@ -32,6 +32,3 @@ BDCN model for BSDS500 dataset and NYUDv2 datset of RGB and depth are availavble
     code: j3de
 
 
-The pretrained model will be updated soon.
-
-
