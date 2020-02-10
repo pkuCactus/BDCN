@@ -14,7 +14,7 @@ Module (SEM). Here are the code for this paper.
 
 1. Clone this repository to local
 ```shell
-git clone https://github.com/pytorch/pytorch.git
+git clone https://github.com/pkuCactus/BDCN.git
 ```
 
 2. Download the imagenet pretrained vgg16 pytorch model [vgg16.pth](link: https://pan.baidu.com/s/10Tgjs7FiAYWjVyVgvEM0mA code: ab4g) or the caffemodel from the [model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) and then transfer to pytorch version. You also can download our pretrained model for only evaluation.
